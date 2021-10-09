@@ -6,4 +6,4 @@ Simple Server for receiving Emails and creating tickets. Also offers responds fr
 
 ## Read all the instructions here
 
-[Click to access the PDF](https://github.com/warodri-sendbird/desk-email-nodejs/blob/desk-email-support.pdf)
+[Click to access the PDF](https://github.com/warodri-sendbird/desk-email-nodejs/desk-email-support.pdf)
